@@ -8,3 +8,5 @@ Apples
 Oranges
 Lemons
 Bells 
+Getting to know [me](about.md)
+Line
