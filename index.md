@@ -10,6 +10,7 @@ Lemons
 Bells 
 Getting to know [me](about.md)
 
+<img src="IMG_4493.jpeg" alt=itsme style="width:300px">
 ![It's me](IMG_4493.jpeg)
 
 [Go home](index.md)
