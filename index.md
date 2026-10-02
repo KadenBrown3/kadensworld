@@ -9,4 +9,7 @@ Oranges
 Lemons
 Bells 
 Getting to know [me](about.md)
-Line
+
+![It's me](IMG_4493.jpeg)
+
+[Go home](index.md)
