@@ -12,5 +12,6 @@ Getting to know [me](about.md)
 
 <img src="IMG_4493.jpeg" alt=itsme style="width:300px">
 ![It's me](IMG_4493.jpeg)
-This is Kaden Brown and he is a athlete at Albright College(index.md)
+This is Kaden Brown and he is a athlete at Albright College
+
 [Go home](index.md)
