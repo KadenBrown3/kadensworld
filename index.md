@@ -11,6 +11,9 @@ Bells
 Getting to know [me](about.md)
 
 <img src="IMG_4493.jpeg" alt=itsme style="width:300px">
+This is Kaden Brown and he is a athlete at Albright College
+
+
 ![It's me](IMG_4493.jpeg)
 This is Kaden Brown and he is a athlete at Albright College
 
